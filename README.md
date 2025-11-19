@@ -12,9 +12,9 @@ The data is stored in a MongoDB database with separated collections for each spi
 
 ## Requirements
 
-docker
-docker-compose
-make
+docker  
+docker-compose  
+make  
 
 ## Usage
 
